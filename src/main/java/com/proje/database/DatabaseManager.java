@@ -14,7 +14,7 @@ public class DatabaseManager {
     public DatabaseManager() {
         // Gerekirse başlangıç ayarları burada yapılabilir
     }
-
+ 
     // Veritabanına bağlanır
     public Connection connect() {
         try {
